@@ -8,3 +8,6 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+dist/
+sample_data/
+*.rvf
